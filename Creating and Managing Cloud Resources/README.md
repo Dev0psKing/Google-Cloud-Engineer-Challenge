@@ -1,18 +1,18 @@
+# Create and Manage Cloud Resources: Challenge Lab || [GSP313](https://www.cloudskillsboost.google/focuses/10258?parent=catalog) 
 
+### Challenge scenario
+You have started a new role as a Junior Cloud Engineer for Jooli, Inc. You are expected to help manage the infrastructure at Jooli. Common tasks include provisioning resources for projects.
 
+You are expected to have the skills and knowledge for these tasks, so step-by-step guides are not provided.
 
+Some Jooli, Inc. standards you should follow:
 
+Create all resources in the default region or zone, unless otherwise directed. The default region is REGION, and the default zone is ZONE.
+Naming normally uses the format team-resource; for example, an instance could be named nucleus-webserver1.
+Allocate cost-effective resource sizes. Projects are monitored, and excessive resource use will result in the containing project's termination (and possibly yours), so plan carefully. This is the guidance the monitoring team is willing to share: unless directed, use e2-micro for small Linux VMs, and use e2-medium for Windows or other applications, such as Kubernetes nodes.
 
-
-
-
-
-
-
-
-
-
-# Create and Manage Cloud Resources: Challenge Lab || [GSP313](https://www.cloudskillsboost.google/focuses/10258?parent=catalog) ||
+#### Your challenge
+As soon as you sit down at your desk and open your new laptop, you receive several requests from the Nucleus team. Read through each description, and then create the resources.
 
 ## Solution 
 ### Assign Veriables
