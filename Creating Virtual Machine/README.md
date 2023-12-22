@@ -65,6 +65,7 @@ gcloud compute firewall-rules create allow-http \
   --source-ranges=0.0.0.0/0 \
   --target-tags=http-server
 ```
+![Screenshot from 2023-12-22 18-49-46](https://github.com/Dev0psKing/Google-Cloud-Hands_On/assets/99263767/e8f7dba7-d38a-4ea5-94e9-8ef4438ca62f)
 
 ### SSH into the Instance
 
@@ -73,6 +74,7 @@ To SSH into the "gcelab" instance, use the following command:
 ```bash
 gcloud compute ssh gcelab --zone=$TECHVINE_SOLUTION_ZONE --quiet
 ```
+![Screenshot from 2023-12-22 18-51-00](https://github.com/Dev0psKing/Google-Cloud-Hands_On/assets/99263767/4453a77d-9e0e-4599-b46c-b029568ab1b7)
 
 ## Task 2: Installing Nginx on the Instance
 
@@ -84,13 +86,16 @@ sudo apt-get install -y nginx
 ps aux | grep nginx
 exit
 ```
+![Screenshot from 2023-12-22 18-51-44](https://github.com/Dev0psKing/Google-Cloud-Hands_On/assets/99263767/6dca2e56-d05e-484d-b70f-dc61926d4354)
 
 ## Task 3: Creating a Second Instance
 
 To create a second instance named "gcelab2" with specified configurations, run the following command:
+![Screenshot from 2023-12-22 18-53-28](https://github.com/Dev0psKing/Google-Cloud-Hands_On/assets/99263767/5d050fee-5d07-48eb-99f2-59c604897b3a)
 
 ```bash
 gcloud compute instances create gcelab2 --machine-type e2-medium --zone=$TECHVINE_SOLUTION_ZONE
 ```
+![Screenshot from 2023-12-22 18-54-37](https://github.com/Dev0psKing/Google-Cloud-Hands_On/assets/99263767/789aa3bc-2b26-40aa-ab2e-5cd27ae3118a)
 
 Congratulations! You have successfully completed the TechVine Solution.
