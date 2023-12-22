@@ -27,8 +27,7 @@ Your team has already prepared a detailed README with instructions on setting up
    - Briefly outline the process of creating a second instance named "gcelab2" with the specified machine type and zone.
    - Why might a team choose to deploy multiple instances for a project, and what benefits could this bring to the application architecture?
 
-Feel free to elaborate on each question and provide any additional insights or considerations related to the described scenario.
-
+    
 ## Setting Up the Environment
 
 ### Zone Configuration
@@ -94,4 +93,4 @@ To create a second instance named "gcelab2" with specified configurations, run t
 gcloud compute instances create gcelab2 --machine-type e2-medium --zone=$TECHVINE_SOLUTION_ZONE
 ```
 
-Feel free to explore and customize this setup according to your specific requirements. If you have any questions or issues, please refer to the official Google Cloud Platform documentation for additional assistance. Happy coding!
+Congratulations! You have successfully completed the TechVine Solution.
