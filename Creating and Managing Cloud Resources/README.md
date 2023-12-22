@@ -1,4 +1,5 @@
 # Create and Manage Cloud Resources: Challenge Lab || [GSP313](https://www.cloudskillsboost.google/focuses/10258?parent=catalog) 
+![image](https://github.com/Dev0psKing/Google-Cloud-Hands_On/assets/99263767/9c8e7114-3728-4de2-b33d-e734ae11a0d4)
 
 ### Challenge scenario
 You have started a new role as a Junior Cloud Engineer for Jooli, Inc. You are expected to help manage the infrastructure at Jooli. Common tasks include provisioning resources for projects.
