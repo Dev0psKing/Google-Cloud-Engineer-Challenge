@@ -131,7 +131,3 @@ gcloud compute forwarding-rules list
 ##### *You Have Successfully Demonstrated Your Skills And Determination.*
 
 #### *Well done!*
-
-#### Don't Forget to Join the [Telegram Channel](https://t.me/QuickGcpLab) & [Discussion group](https://t.me/QuickGcpLabChats)
-
-# [QUICK GCP LAB](https://www.youtube.com/@quickgcplab)
