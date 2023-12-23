@@ -42,6 +42,7 @@ Before you begin, ensure that you have the following:
     ```
 
 6. Follow the on-screen instructions to complete the lab challenge.
+![Screenshot from 2023-12-23 04-38-09](https://github.com/Dev0psKing/Google-Cloud-Hands_On/assets/99263767/64324f55-b616-4257-b7c1-2761e68c4d37)
 
 ## Additional Information
 
