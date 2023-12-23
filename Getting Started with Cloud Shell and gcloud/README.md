@@ -36,6 +36,7 @@ Follow the steps below to complete the lab:
     ```
 
 5. Follow any on-screen prompts to confirm and complete the instance creation.
+![Screenshot from 2023-12-23 05-08-13](https://github.com/Dev0psKing/Google-Cloud-Hands_On/assets/99263767/ff0de49d-3b19-42f0-ae03-0d121607968c)
 
 ## Additional Information
 
