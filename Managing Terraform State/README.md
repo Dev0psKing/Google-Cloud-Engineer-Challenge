@@ -28,7 +28,6 @@ To quickly get started, execute the following commands in your terminal:
 
 ```bash
 export REGION=us-west1
-![Screenshot from 2023-12-24 04-40-56](https://github.com/Dev0psKing/Google-Cloud-Hands_On/assets/99263767/c4b1800b-f9c7-4301-babf-f2646ff4129c)
 
 curl -LO raw.githubusercontent.com/quiccklabs/Labs_solutions/master/Managing%20Terraform%20State/quicklabgsp752.sh
 
@@ -36,6 +35,7 @@ sudo chmod +x quicklabgsp752.sh
 
 ./quicklabgsp752.sh
 ```
+![Screenshot from 2023-12-24 04-40-56](https://github.com/Dev0psKing/Google-Cloud-Hands_On/assets/99263767/c4b1800b-f9c7-4301-babf-f2646ff4129c)
 ![Screenshot from 2023-12-24 04-41-02](https://github.com/Dev0psKing/Google-Cloud-Hands_On/assets/99263767/2cc3aa9e-94d5-4248-9eeb-2bdd4e5d5d98)
 
 This solution script sets up your environment efficiently for the lab, saving you time and ensuring a smooth learning experience.
