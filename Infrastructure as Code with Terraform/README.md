@@ -188,5 +188,7 @@ resource "google_compute_instance" "another_instance" {
 terraform plan
 terraform apply -auto-approve
 ```
+![Screenshot from 2023-12-24 13-45-41](https://github.com/Dev0psKing/Google-Cloud-Hands_On/assets/99263767/93d66346-5a47-4f9a-b1b2-88f0e3954685)
+![Screenshot from 2023-12-24 13-52-48](https://github.com/Dev0psKing/Google-Cloud-Hands_On/assets/99263767/801a0eca-bc11-498f-a5ea-ac541757bf97)
 
 This script guides you through the process of progressively building and expanding your infrastructure using Terraform. Feel free to reach out if you have any questions or encounter issues during the process. Happy Terraforming!
