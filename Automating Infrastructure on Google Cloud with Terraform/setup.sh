@@ -2,9 +2,8 @@
 
 # GSP345
 ## Run in cloudshell
-```cmd
+
 export ZONE=
-```
 
 export BUCKET_HUSTLER=
 
