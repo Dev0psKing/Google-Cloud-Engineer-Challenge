@@ -22,37 +22,44 @@ You are a cloud engineer intern for a new startup. Your first project involves c
 ## Task 1: Create the Configuration Files
 
 In Cloud Shell, set up your Terraform configuration files and directory structure as specified. Fill out the `variables.tf` files with default values for region, zone, and project_id. Add the Terraform block and Google Provider to `main.tf`. Verify the correctness of the arguments.
+![Screenshot from 2023-12-24 03-30-15](https://github.com/Dev0psKing/Google-Cloud-Hands_On/assets/99263767/6c9cf152-84b6-4c88-b2c2-c89c9045a5da)
 
 Initialize Terraform.
 
 ## Task 2: Import Infrastructure
 
 In the Google Cloud Console, navigate to Compute Engine > VM Instances. Import existing instances into the Terraform configuration. Write minimal configurations for instances `tf-instance-1` and `tf-instance-2` in the `instances.tf` file.
+![Screenshot from 2023-12-24 03-30-32](https://github.com/Dev0psKing/Google-Cloud-Hands_On/assets/99263767/45580090-42ee-4805-850b-6a1a79c3a1c6)
 
 Apply your changes.
 
 ## Task 3: Configure a Remote Backend
 
 Create a Cloud Storage bucket resource in the `storage` module. Reference the module in `main.tf` and configure it as the remote backend. Upon initialization, choose to copy existing state data to the new backend.
+![Screenshot from 2023-12-24 03-30-41](https://github.com/Dev0psKing/Google-Cloud-Hands_On/assets/99263767/945e7960-5bf8-438f-b025-361f6516e6e0)
 
 Apply your changes.
 
 ## Task 4: Modify and Update Infrastructure
 
 Navigate to the `instances` module and modify instance resources. Add a third instance, update configurations, and apply your changes.
+![Screenshot from 2023-12-24 03-30-52](https://github.com/Dev0psKing/Google-Cloud-Hands_On/assets/99263767/eaf90ab2-b2c4-4257-bcd9-d6d1a0434171)
 
 ## Task 5: Destroy Resources
 
 Remove the third instance from the configuration, initialize Terraform, and apply the changes.
+![Screenshot from 2023-12-24 03-34-19](https://github.com/Dev0psKing/Google-Cloud-Hands_On/assets/99263767/2d26787b-6451-4fe6-ac0a-e7a58cb273dc)
 
 ## Task 6: Use a Module from the Registry
 
 Browse the Terraform Registry and add the Network Module to `main.tf`. Configure VPC and subnets. Update `instances.tf` to connect instances to the appropriate subnets.
+![Screenshot from 2023-12-24 03-34-47](https://github.com/Dev0psKing/Google-Cloud-Hands_On/assets/99263767/fb869921-eff6-477c-ad7e-8375e65fdbcb)
 
 ## Task 7: Configure a Firewall
 
 Create a firewall rule to permit connections on TCP port 80. Initialize Terraform and apply your changes.
 
+![Screenshot from 2023-12-24 03-35-17](https://github.com/Dev0psKing/Google-Cloud-Hands_On/assets/99263767/4ac2ac9f-5914-460e-9f80-2a270465734c)
 
 ## Solution
 
@@ -429,5 +436,6 @@ Create a firewall rule to permit connections on TCP port 80. Initialize Terrafor
     terraform init
     terraform apply -auto-approve
     ```
+![Screenshot from 2023-12-24 03-40-41](https://github.com/Dev0psKing/Google-Cloud-Hands_On/assets/99263767/415c4f49-d4d6-4f51-8b17-c54767c9ceb0)
 
 Congratulations! You have successfully deployed and configured infrastructure components on GCP using Terraform. Be sure to review and customize the scripts according to your specific requirements before execution.
