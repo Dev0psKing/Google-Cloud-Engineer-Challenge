@@ -110,5 +110,7 @@ curl https://raw.githubusercontent.com/hashicorp/learn-terraform-modules/master/
 curl https://raw.githubusercontent.com/hashicorp/learn-terraform-modules/blob/master/modules/aws-s3-static-website-bucket/www/error.html > error.html
 gsutil cp *.html gs://$PROJECT_ID
 ```
+![Screenshot from 2023-12-24 13-22-28](https://github.com/Dev0psKing/Google-Cloud-Hands_On/assets/99263767/14d0346f-d613-4711-8630-a58c39566448)
+![Screenshot from 2023-12-24 13-26-56](https://github.com/Dev0psKing/Google-Cloud-Hands_On/assets/99263767/f778ca10-0ecb-4766-8e9e-355ddee0bd7d)
 
 This script streamlines the process of setting up your environment, utilizing modules, and interacting with cloud storage. Feel free to reach out if you encounter any issues or have questions. Happy Terraforming!
