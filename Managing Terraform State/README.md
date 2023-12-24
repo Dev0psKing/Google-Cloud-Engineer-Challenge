@@ -38,4 +38,6 @@ sudo chmod +x quicklabgsp752.sh
 
 This solution script sets up your environment efficiently for the lab, saving you time and ensuring a smooth learning experience.
 
-Feel free to reach out if you have any questions or encounter issues during the process. Happy Terraforming!
+### Congratulations!
+In this lab, you learned how to manage backends and state with Terraform. You created local and Cloud Storage backends to manage your state file, refreshed your state, and imported configuration into Terraform. You then updated the configuration and manually edited to fully manage the Docker container with Terraform.
+
