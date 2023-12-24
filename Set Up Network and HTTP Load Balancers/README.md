@@ -11,6 +11,8 @@ In this lab, you will:
 - Set up a Network Load Balancer to distribute traffic across multiple virtual machines.
 - Configure an HTTP Load Balancer to balance traffic and provide high availability for your web servers.
 
+## Solution
+
 ## Lab Environment Setup
 
 Follow the steps below to set up your lab environment:
@@ -162,6 +164,7 @@ Follow the steps below to set up your lab environment:
     ```bash
     gcloud compute forwarding-rules create http-content-rule --address=lb-ipv4-1 --global --target-http-proxy=http-lb-proxy --ports=80
     ```
+![Screenshot from 2023-12-23 06-26-25](https://github.com/Dev0psKing/Google-Cloud-Hands_On/assets/99263767/c4ed1cac-fa2d-4179-a523-a024d7c3b152)
 
 ## Conclusion
 
