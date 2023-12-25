@@ -31,6 +31,7 @@ Generate an execution plan to preview the changes that Terraform will apply to y
 ```bash
 terraform plan
 ```
+![Screenshot from 2023-12-24 14-07-44](https://github.com/Dev0psKing/Google-Cloud-Hands_On/assets/99263767/3a6bb753-ba2f-4c7c-a7e8-7e239882fc38)
 
 This command performs a refresh, assesses the necessary actions to achieve the desired state specified in the configuration files, and provides you with insights into the upcoming changes.
 
@@ -41,6 +42,7 @@ To apply the changes and create the specified resources, run the following comma
 ```bash
 terraform apply
 ```
+![Screenshot from 2023-12-24 14-08-10](https://github.com/Dev0psKing/Google-Cloud-Hands_On/assets/99263767/c23762fe-9df4-439e-9157-c0a14df47110)
 
 The execution plan will be executed, and Terraform will create the infrastructure as defined in your configuration files. Review the output to confirm the changes and ensure they align with your expectations.
 
