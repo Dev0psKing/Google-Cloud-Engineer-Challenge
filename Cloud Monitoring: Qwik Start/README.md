@@ -31,6 +31,10 @@ sudo chmod +x quicklabgsp089.sh
 # Run the script
 ./quicklabgsp089.sh
 ```
+![Screenshot from 2023-12-26 15-46-10.png](..%2F..%2F..%2FPictures%2FScreenshots%2FScreenshot%20from%202023-12-26%2015-46-10.png)
+### Task 3-7
+![Screenshot from 2023-12-26 15-47-31.png](..%2F..%2F..%2FPictures%2FScreenshots%2FScreenshot%20from%202023-12-26%2015-47-31.png)
 
+![Screenshot from 2023-12-26 15-47-38.png](..%2F..%2F..%2FPictures%2FScreenshots%2FScreenshot%20from%202023-12-26%2015-47-38.png)
 ### Congratulations!
 You have successfully completed the lab, setting up and monitoring a VM with Cloud Monitoring. Explore the rich insights provided by Cloud Monitoring to ensure the optimal performance and reliability of your cloud-powered applications. If you have any questions or encounter issues, refer to the troubleshooting section or seek assistance from the community. Happy monitoring!
