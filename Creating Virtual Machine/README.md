@@ -1,6 +1,5 @@
-# TechVine Solution
-
-Welcome to the TechVine Solution repository! This README provides a comprehensive guide on setting up and managing instances using Google Cloud Platform.
+# Creating Virtual Machine
+This README provides a comprehensive guide on setting up and managing instances using Google Cloud Platform.
 
 
 ### Scenario:
