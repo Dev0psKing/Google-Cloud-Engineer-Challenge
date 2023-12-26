@@ -43,6 +43,7 @@ gcloud compute instances create vm-appliance \
   --network-interface=network-tier=PREMIUM,stack-type=IPV4_ONLY,subnet=managementsubnet-$REGION \
   --network-interface=network-tier=PREMIUM,stack-type=IPV4_ONLY,subnet=mynetwork
 ```
+![Screenshot from 2023-12-26 16-20-52](https://github.com/Dev0psKing/Google-Cloud-Hands_On/assets/99263767/92b7e5b4-07bf-4e26-b20d-83304f4e6645)
 
 ## Conclusion
 By following these steps, you have successfully created custom mode VPC networks, established firewall rules, and deployed VM instances across multiple networks. Explore the connectivity and configurations to gain a deeper understanding of network interactions within your cloud infrastructure. If you encounter any issues or have questions, refer to the troubleshooting section or seek assistance from the community. Happy networking!
