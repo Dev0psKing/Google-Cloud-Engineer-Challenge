@@ -1,5 +1,4 @@
 # Set Up and Configure a Cloud Environment in Google Cloud
-![image](https://github.com/Dev0psKing/Google-Cloud-Hands_On/assets/99263767/a27464a4-a2a7-469c-96e6-c6e628084161)
 
 
 ## Introduction
@@ -50,7 +49,7 @@ Adhere to the following Jooli Inc. standards:
 Your mission is to assist the Griffin team in their initial work on a new project involving WordPress. While some groundwork has been laid, your expert skills are required to address the remaining tasks. The team is counting on you, so as soon as you sit down at your desk and open your laptop, dive into the challenge, and good luck!
 
 ## Solution
-
+![image](https://github.com/Dev0psKing/Google-Cloud-Hands_On/assets/99263767/a27464a4-a2a7-469c-96e6-c6e628084161)
 ## `Lab Name` - *Set Up and Configure a Cloud Environment in Google Cloud: Challenge Lab [GSP321]*
 ## `Lab Link` - [Click Here](https://www.cloudskillsboost.google/focuses/10603?parent=catalog)
 
