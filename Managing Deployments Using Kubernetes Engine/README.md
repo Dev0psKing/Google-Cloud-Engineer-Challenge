@@ -97,6 +97,7 @@ kubectl get pods -o jsonpath --template='{range .items[*]}{.metadata.name}{"\t"}
 kubectl create -f deployments/hello-canary.yaml
 kubectl get deployments
 ```
+![Screenshot from 2023-12-26 15-17-37](https://github.com/Dev0psKing/Google-Cloud-Hands_On/assets/99263767/a458d01e-8fd8-4aca-b082-3f770f3a25e9)
 
 These commands guide you through setting up a Kubernetes cluster, managing deployments, scaling, updating images, and exploring deployment history.
 
