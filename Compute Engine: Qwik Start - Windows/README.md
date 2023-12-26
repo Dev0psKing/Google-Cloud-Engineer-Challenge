@@ -44,6 +44,12 @@ Before you begin, ensure that you have the following:
 6. Follow the on-screen instructions to complete the lab challenge.
 ![Screenshot from 2023-12-23 04-38-09](https://github.com/Dev0psKing/Google-Cloud-Hands_On/assets/99263767/64324f55-b616-4257-b7c1-2761e68c4d37)
 
+![Screenshot from 2023-12-26 15-46-10.png](..%2F..%2F..%2FPictures%2FScreenshots%2FScreenshot%20from%202023-12-26%2015-46-10.png)
+
+### Task 3-7
+![Screenshot from 2023-12-26 15-47-31](https://github.com/Dev0psKing/Google-Cloud-Hands_On/assets/99263767/6e154342-0642-4002-adc0-0d1fd590f2b6)
+
+
 ## Additional Information
 
 - The lab script automates the setup process, but feel free to explore the GCP Console and understand the actions performed by the script.
