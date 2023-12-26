@@ -54,3 +54,6 @@ Set up a Cloud SQL instance, configure it as a MySQL database, and select the ap
 
 ## Conclusion
 Upon completion of this lab, you'll have acquired fundamental SQL skills and practical experience using BigQuery and Cloud SQL. These skills will lay the foundation for your journey into more advanced data science topics within the Google Cloud ecosystem. If you have any questions or face challenges, consult the troubleshooting section or seek assistance from the community. Enjoy your SQL journey!
+
+![Screenshot from 2023-12-26 17-37-35](https://github.com/Dev0psKing/Google-Cloud-Hands_On/assets/99263767/3ebceebe-b350-4930-a86d-61470f851388)
+
