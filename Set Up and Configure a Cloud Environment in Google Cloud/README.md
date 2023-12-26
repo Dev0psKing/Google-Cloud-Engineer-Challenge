@@ -67,6 +67,7 @@ gcloud compute networks subnets create griffin-dev-wp --network=griffin-dev-vpc 
 
 gcloud compute networks subnets create griffin-dev-mgmt --network=griffin-dev-vpc --region us-east1 --range=192.168.32.0/20
 ```
+![Screenshot from 2023-12-26 12-25-31](https://github.com/Dev0psKing/Google-Cloud-Hands_On/assets/99263767/7c51dfab-f2f2-42ac-9fb2-ae50c06e4429)
 
 
 ## Task 2. Create production VPC manually
@@ -83,6 +84,7 @@ gcloud deployment-manager deployments create prod-network \
 
 cd ..
 ```
+![Screenshot from 2023-12-26 12-26-34](https://github.com/Dev0psKing/Google-Cloud-Hands_On/assets/99263767/9e00b2fc-8316-4870-917b-d4868fa00e83)
 
 ## Task 3. Create bastion host
 
@@ -93,6 +95,7 @@ gcloud compute firewall-rules create fw-ssh-dev --source-ranges=0.0.0.0/0 --targ
 
 gcloud compute firewall-rules create fw-ssh-prod --source-ranges=0.0.0.0/0 --target-tags ssh --allow=tcp:22 --network=griffin-prod-vpc
 ```
+![Screenshot from 2023-12-26 12-27-22](https://github.com/Dev0psKing/Google-Cloud-Hands_On/assets/99263767/98484e03-ffed-4b40-993d-897b11316933)
 
 ## Task 4. Create and configure Cloud SQL Instance
 
@@ -103,6 +106,7 @@ gcloud sql instances create griffin-dev-db --root-password password --region=us-
 ```
 gcloud sql connect griffin-dev-db
 ```
+![Screenshot from 2023-12-26 12-31-24](https://github.com/Dev0psKing/Google-Cloud-Hands_On/assets/99263767/e544785d-06ea-4ace-ab17-e1a678e151bb)
 
 * For SQL PASSWORD - use `password`.
 
@@ -134,6 +138,7 @@ cd ~/
 
 gsutil cp -r gs://cloud-training/gsp321/wp-k8s .
 ```
+![Screenshot from 2023-12-26 12-38-37](https://github.com/Dev0psKing/Google-Cloud-Hands_On/assets/99263767/651e489f-f47f-4722-9af7-9dc430f78aa3)
 
 ## Task 6. Prepare the Kubernetes cluster
 
@@ -168,6 +173,10 @@ kubectl create -f wp-service.yaml
 kubectl get svc -w
 ```
 
+![Screenshot from 2023-12-26 12-40-34](https://github.com/Dev0psKing/Google-Cloud-Hands_On/assets/99263767/5aa5c84e-c48a-4325-afe5-982236660cd3)
+
+![image](https://github.com/Dev0psKing/Google-Cloud-Hands_On/assets/99263767/bf17e2c3-4aba-45e0-97c7-653eab76b3ac)
+
 ## Task 8. Enable monitoring
 
 ### OR
@@ -184,11 +193,16 @@ Path - `/`
 
 Click Next, Next and then click on *`Create`*
 
+![Screenshot from 2023-12-26 12-50-04](https://github.com/Dev0psKing/Google-Cloud-Hands_On/assets/99263767/f02b906e-fc0d-408a-9276-461cfc553b44)
+![Screenshot from 2023-12-26 12-50-12](https://github.com/Dev0psKing/Google-Cloud-Hands_On/assets/99263767/08f3d6d4-65e9-4a15-b0bd-5976db600340)
+
+![Screenshot from 2023-12-26 12-50-58](https://github.com/Dev0psKing/Google-Cloud-Hands_On/assets/99263767/d890515d-f4c9-498f-91d2-0e2fc796c2f5)
 
 ## Task 9. Provide access for an additional engineer
 
 ```cmd
 gcloud projects add-iam-policy-binding $DEVSHELL_PROJECT_ID --member=user:$USER_NAME2 --role=roles/editor
 ```
+![Screenshot from 2023-12-26 12-53-30](https://github.com/Dev0psKing/Google-Cloud-Hands_On/assets/99263767/567adcd0-407f-4f8c-963a-a69ceae7ad5e)
 
 # Congratulations🎉! You're all done with this Challenge Lab.  
