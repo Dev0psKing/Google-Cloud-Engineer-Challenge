@@ -1,4 +1,6 @@
 # Set Up and Configure a Cloud Environment in Google Cloud
+![image](https://github.com/Dev0psKing/Google-Cloud-Hands_On/assets/99263767/a27464a4-a2a7-469c-96e6-c6e628084161)
+
 
 ## Introduction
 
