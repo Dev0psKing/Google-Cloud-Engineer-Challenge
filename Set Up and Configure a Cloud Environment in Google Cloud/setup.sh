@@ -8,7 +8,8 @@ gcloud compute networks create griffin-dev-vpc --subnet-mode custom
 gcloud compute networks subnets create griffin-dev-wp --network=griffin-dev-vpc --region us-east1 --range=192.168.16.0/20
 
 gcloud compute networks subnets create griffin-dev-mgmt --network=griffin-dev-vpc --region us-east1 --range=192.168.32.0/20
-
+2. Create production VPC manually
+gsuti
 ## Task 2. Create production VPC manually
 gsutil cp -r gs://cloud-training/gsp321/dm .
 cd dm
