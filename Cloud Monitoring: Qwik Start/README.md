@@ -32,6 +32,7 @@ sudo chmod +x quicklabgsp089.sh
 ./quicklabgsp089.sh
 ```
 ![Screenshot from 2023-12-26 15-46-10.png](..%2F..%2F..%2FPictures%2FScreenshots%2FScreenshot%20from%202023-12-26%2015-46-10.png)
+
 ### Task 3-7
 ![Screenshot from 2023-12-26 15-47-31.png](..%2F..%2F..%2FPictures%2FScreenshots%2FScreenshot%20from%202023-12-26%2015-47-31.png)
 
