@@ -34,9 +34,12 @@ Once you are comfortable with SQL basics, consider exploring more challenging la
 
 ### Task 1: The Basics of SQL
 Learn about databases, tables, and the fundamental SQL querying keywords. Execute simple queries using SELECT, FROM, and WHERE.
+![image](https://github.com/Dev0psKing/Google-Cloud-Hands_On/assets/99263767/22452c03-3f0f-4d6c-9d39-d7a1a01526c7)
 
 ### Task 2: Exploring the BigQuery Console
 Understand the BigQuery paradigm and use the web console to run SQL queries on large datasets within Google Cloud projects.
+![image](https://github.com/Dev0psKing/Google-Cloud-Hands_On/assets/99263767/c56369a9-6d2f-4f45-ad22-31a54885d523)
+![image](https://github.com/Dev0psKing/Google-Cloud-Hands_On/assets/99263767/5e8c215b-ba51-4dfd-bf70-75b423cde451)
 
 ### Task 3: More SQL Keywords
 Explore advanced SQL keywords like GROUP BY, COUNT, AS, and ORDER BY to aggregate and organize query results effectively.
@@ -46,8 +49,11 @@ Learn to export query results as CSV files. Discover Cloud SQL, a fully-managed 
 
 ### Task 5: Create a Cloud SQL Instance
 Set up a Cloud SQL instance, configure it as a MySQL database, and select the appropriate specifications for your instance.
+![image](https://github.com/Dev0psKing/Google-Cloud-Hands_On/assets/99263767/abe47ab5-0b8d-4846-a922-279d896b4347)
 
-Follow the steps outlined in the lab to complete each task and gain hands-on experience with SQL in BigQuery and Cloud SQL.
 
 ## Conclusion
 Upon completion of this lab, you'll have acquired fundamental SQL skills and practical experience using BigQuery and Cloud SQL. These skills will lay the foundation for your journey into more advanced data science topics within the Google Cloud ecosystem. If you have any questions or face challenges, consult the troubleshooting section or seek assistance from the community. Enjoy your SQL journey!
+
+![Screenshot from 2023-12-26 17-37-35](https://github.com/Dev0psKing/Google-Cloud-Hands_On/assets/99263767/3ebceebe-b350-4930-a86d-61470f851388)
+
