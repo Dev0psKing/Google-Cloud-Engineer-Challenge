@@ -170,8 +170,6 @@ kubectl get svc -w
 
 ## Task 8. Enable monitoring
 
-* `FOLLOW THE VIDEO INSTRUCTION`
-
 ### OR
 
 * Go to Monitoring > from the left panel click on the `Uptime Check` and then Click on *`+Create Uptime Check`* 
