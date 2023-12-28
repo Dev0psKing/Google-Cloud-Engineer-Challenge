@@ -23,4 +23,3 @@ documentation for various labs in the Google Cloud engineering path.
 | Set Up and Configure a Cloud Environment in Google Cloud | Learn how to set up and configure a cloud environment in Google Cloud. | [Link](https://github.com/Dev0psKing/Google-Cloud-Hands_On/tree/master/Set%20Up%20and%20Configure%20a%20Cloud%20Environment%20in%20Google%20Cloud) |
 | Terraform Fundamentals | Fundamental concepts and usage of Terraform on Google Cloud. | [Link](https://github.com/Dev0psKing/Google-Cloud-Hands_On/tree/master/Terraform%20Fundamentals) |
 
-Feel free to explore each folder for detailed documentation and solutions.
