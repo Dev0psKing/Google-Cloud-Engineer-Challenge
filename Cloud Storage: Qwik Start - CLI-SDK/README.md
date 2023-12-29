@@ -59,6 +59,7 @@ gsutil cp -r gs://$DEVSHELL_PROJECT_ID/ada.jpg .
 gsutil cp gs://$DEVSHELL_PROJECT_ID/ada.jpg gs://$DEVSHELL_PROJECT_ID/image-folder/
 gsutil acl ch -u AllUsers:R gs://$DEVSHELL_PROJECT_ID/ada.jpg
 ```
+![Screenshot from 2023-12-29 07-11-17](https://github.com/Dev0psKing/Google-Cloud-Hands_On/assets/99263767/6c6314ab-501d-4218-b9e6-ccb985c097b7)
 
 ## Congratulations!
 
