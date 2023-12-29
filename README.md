@@ -1,8 +1,8 @@
-# Google Cloud Engineer Hands-On Challenge Labs
+# Google Cloud Hands-On Challenge Labs
 
 Welcome to the Google Cloud Hands-On Challenge Labs repository! Here, you will find solutions and documentation for various labs in the Google Cloud engineering path.
 
-**Profile:** [Link](https://www.cloudskillsboost.google/public_profiles/373d33ab-7bd2-40c7-b56a-37e5579bc280)
+**Profile:** [DevOpsKing on Google Cloud Skills Boost](https://www.cloudskillsboost.google/public_profiles/373d33ab-7bd2-40c7-b56a-37e5579bc280)
 
 | Lab Title | Description | Folder Link |
 |-----------|-------------|-------------|
@@ -23,5 +23,6 @@ Welcome to the Google Cloud Hands-On Challenge Labs repository! Here, you will f
 | Google Cloud Platform - Set Up Network and HTTP Load Balancers | Set up network and HTTP load balancers on Google Cloud. | [Link](https://github.com/Dev0psKing/Google-Cloud-Hands_On/tree/master/Set%20Up%20Network%20and%20HTTP%20Load%20Balancers) |
 | Set Up and Configure a Cloud Environment in Google Cloud | Learn how to set up and configure a cloud environment in Google Cloud. | [Link](https://github.com/Dev0psKing/Google-Cloud-Hands_On/tree/master/Set%20Up%20and%20Configure%20a%20Cloud%20Environment%20in%20Google%20Cloud) |
 | Terraform Fundamentals | Fundamental concepts and usage of Terraform on Google Cloud. | [Link](https://github.com/Dev0psKing/Google-Cloud-Hands_On/tree/master/Terraform%20Fundamentals) |
+| Cloud Storage: Qwik Start - Cloud Console | Quick start guide to Cloud Storage using the Cloud Console. | [Link](https://github.com/Dev0psKing/Google-Cloud-Hands_On/tree/master/Cloud%20Storage%3A%20Qwik%20Start%20-%20Cloud%20Console) |
 
-
+Feel free to explore each folder for detailed documentation and solutions.
