@@ -2,7 +2,7 @@
 
 Welcome to the Google Cloud Hands-On Challenge Labs repository! Here, you will find solutions and documentation for various labs in the Google Cloud engineering path.
 
-**Profile:** [DevOpsKing on Google Cloud Skills Boost](https://www.cloudskillsboost.google/public_profiles/373d33ab-7bd2-40c7-b56a-37e5579bc280)
+**Profile:** [My Google Account](https://www.cloudskillsboost.google/public_profiles/373d33ab-7bd2-40c7-b56a-37e5579bc280)
 
 | Lab Title | Description | Folder Link |
 |-----------|-------------|-------------|
