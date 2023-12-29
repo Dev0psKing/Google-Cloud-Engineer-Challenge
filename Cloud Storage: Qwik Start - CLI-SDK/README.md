@@ -50,7 +50,7 @@ gsutil iam ch allUsers:objectViewer gs://$DEVSHELL_PROJECT_ID
 ### Share Bucket Publicly
 
 ```bash
-# Set your preferred region
+
 gsutil mb gs://$DEVSHELL_PROJECT_ID
 curl https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Ada_Lovelace_portrait.jpg/800px-Ada_Lovelace_portrait.jpg --output ada.jpg
 gsutil cp ada.jpg gs://$DEVSHELL_PROJECT_ID
