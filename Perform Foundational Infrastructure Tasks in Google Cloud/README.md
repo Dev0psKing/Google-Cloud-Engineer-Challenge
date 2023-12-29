@@ -64,4 +64,6 @@ gcloud projects remove-iam-policy-binding $DEVSHELL_PROJECT_ID \
 **Note:** Replace placeholders such as `<your-region>`, `<your-zone>`, `<your-topic-name>`, `<your-function-name>`, and `<previous-cloud-engineer-username>` with the appropriate values.
 
 Congratulations!
+
+
 ![image](https://github.com/Dev0psKing/Google-Cloud-Hands_On/assets/99263767/970981d6-0d03-4f02-8050-786c55690d65)
