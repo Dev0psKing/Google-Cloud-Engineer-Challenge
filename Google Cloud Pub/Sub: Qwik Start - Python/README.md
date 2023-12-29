@@ -82,5 +82,11 @@ python publisher.py $GOOGLE_CLOUD_PROJECT publish MyTopic "Hello, Pub/Sub!"
 
 # View messages (observe the subscriber output)
 ```
+### Using Cloud Shell
+```bash
+gcloud pubsub topics create myTopic
+gcloud  pubsub subscriptions create --topic myTopic mySubscription
+
+```
 
 Congratulations! You've completed the Google Cloud Pub/Sub Qwik Start lab in Python. Explore more and experiment with Pub/Sub for your asynchronous messaging needs.
