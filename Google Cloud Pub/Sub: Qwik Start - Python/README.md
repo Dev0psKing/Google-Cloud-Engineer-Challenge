@@ -82,5 +82,6 @@ python publisher.py $GOOGLE_CLOUD_PROJECT publish MyTopic "Hello, Pub/Sub!"
 
 # View messages (observe the subscriber output)
 ```
+![Screenshot from 2023-12-29 13-55-37](https://github.com/Dev0psKing/Google-Cloud-Hands_On/assets/99263767/9db0d9fa-38e5-4d61-b8c4-46022d337399)
 
 Congratulations! You've completed the Google Cloud Pub/Sub Qwik Start lab in Python. Explore more and experiment with Pub/Sub for your asynchronous messaging needs.
