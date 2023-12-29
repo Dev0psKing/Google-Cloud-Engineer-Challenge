@@ -82,5 +82,6 @@ gcloud functions deploy helloWorld \
 --trigger-topic hello_world \
 --runtime nodejs20
 ```
+![Screenshot from 2023-12-29 14-45-10](https://github.com/Dev0psKing/Google-Cloud-Hands_On/assets/99263767/c04ab816-fb7c-4f3a-a5d7-59403af1a8fc)
 
 Congratulations! You've completed the Cloud Functions Qwik Start lab using the Command Line. Explore more and experiment with Cloud Functions for your event-driven tasks.
