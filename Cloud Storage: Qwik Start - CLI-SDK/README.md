@@ -1,4 +1,4 @@
-# Cloud Storage: Qwik Start - Cloud Console
+# Cloud Storage: Qwik Start - Using CLI-SDK
 
 ## Overview
 
