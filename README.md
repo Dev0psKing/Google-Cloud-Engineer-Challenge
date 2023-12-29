@@ -1,4 +1,4 @@
-# Google Cloud Hands-On Challenge Labs
+# Google Cloud Engineer Hands-On Challenge Labs
 
 Welcome to the Google Cloud Hands-On Challenge Labs repository! Here, you will find solutions and documentation for various labs in the Google Cloud engineering path.
 
