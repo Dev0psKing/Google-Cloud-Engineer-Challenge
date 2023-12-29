@@ -2,7 +2,16 @@
 
 Welcome to the Google Cloud Hands-On Challenge Labs repository! Here, you will find solutions and documentation for various labs in the Google Cloud engineering path.
 
-**Profile:** [DevOpsKing on Google Cloud Skills Boost](https://www.cloudskillsboost.google/public_profiles/373d33ab-7bd2-40c7-b56a-37e5579bc280)
+**Google Profile:** [Links](https://www.cloudskillsboost.google/public_profiles/373d33ab-7bd2-40c7-b56a-37e5579bc280)
+
+**Coursera Certificate:**  [Links](https://coursera.org/share/bf8904dfe780aa1337d9ec58db446dc1)
+
+![image](https://github.com/Dev0psKing/Google-Cloud-Hands_On/assets/99263767/10aa54ec-996b-44b8-9c1c-a29c07774201)
+
+
+
+
+
 
 | Lab Title                                                                 | Description                                                             | Folder Link                                                                                                                                             |
 |---------------------------------------------------------------------------|-------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|
