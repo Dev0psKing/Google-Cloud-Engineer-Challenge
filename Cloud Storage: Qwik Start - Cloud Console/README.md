@@ -28,10 +28,6 @@ Organize your data efficiently by creating folders within your storage bucket. T
 
 Discover how to delete folders in Cloud Storage when they are no longer needed. Keeping your storage organized is key to efficient data management.
 
-## Congratulations!
-
-You've successfully completed the Cloud Storage Qwik Start lab using the Cloud Console. By mastering these tasks, you now have a solid foundation for managing your data effectively in a cloud environment.
-
 ## Solution using Cloud Shell
 
 ```bash
@@ -64,3 +60,6 @@ gsutil cp gs://$DEVSHELL_PROJECT_ID/ada.jpg gs://$DEVSHELL_PROJECT_ID/image-fold
 gsutil acl ch -u AllUsers:R gs://$DEVSHELL_PROJECT_ID/ada.jpg
 ```
 
+## Congratulations!
+
+You've successfully completed the Cloud Storage Qwik Start lab using the Cloud Console. By mastering these tasks, you now have a solid foundation for managing your data effectively in a cloud environment.
