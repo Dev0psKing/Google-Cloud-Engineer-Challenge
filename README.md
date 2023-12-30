@@ -4,10 +4,11 @@ Welcome to the Google Cloud Hands-On Challenge Labs repository! Here, you will f
 
 **Google Profile:** [Links](https://www.cloudskillsboost.google/public_profiles/373d33ab-7bd2-40c7-b56a-37e5579bc280)
 
-**Coursera Certificate:**  [Links](https://coursera.org/share/bf8904dfe780aa1337d9ec58db446dc1)
+**Coursera Certificate:**  [Cloud Engineer](https://coursera.org/share/bf8904dfe780aa1337d9ec58db446dc1)           [Cloud Architect](https://coursera.org/share/d1bc57bdd8a460647c88dc0a87648584)
 
 ![image](https://github.com/Dev0psKing/Google-Cloud-Hands_On/assets/99263767/10aa54ec-996b-44b8-9c1c-a29c07774201)
 
+![Screenshot from 2023-12-30 16-35-34](https://github.com/Dev0psKing/Google-Cloud-Engineer-Challenge/assets/99263767/f7a0f63b-2beb-4e02-9c40-7eed1ae3f5f4)
 
 
 
