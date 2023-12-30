@@ -37,4 +37,5 @@ Welcome to the Google Cloud Hands-On Challenge Labs repository! Here, you will f
 | Google Cloud Pub/Sub: Qwik Start - Python                                 | Quick start guide to Google Cloud Pub/Sub using Python.                 | [Link](https://github.com/Dev0psKing/Google-Cloud-Hands_On/tree/master/Google%20Cloud%20Pub/Sub%3A%20Qwik%20Start%20-%20Python)                         |
 | Cloud Functions: Qwik Start - Command Line                                | Quick start guide to Cloud Functions using the command line.            | [Link](https://github.com/Dev0psKing/Google-Cloud-Hands_On/blob/master/Cloud%20Functions:%20Qwik%20Start%20-%20Command%20Line/README.md)                |
 
-Feel free to explore each folder for detailed documentation and solutions.
+Feel free to explore each folder for detailed documentation and solutions to specific challenges.
+
