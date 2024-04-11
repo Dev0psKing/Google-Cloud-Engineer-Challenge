@@ -22,6 +22,7 @@ touch variables.tf
 mkdir -p modules/instances
 cd modules/instances
 touch instances.tf outputs.tf variables.tf
+
 cd ..
 mkdir storage
 cd storage
