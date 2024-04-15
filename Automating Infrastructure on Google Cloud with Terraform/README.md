@@ -1,5 +1,6 @@
 # Automating Infrastructure on Google Cloud with Terraform
 
+
 ## Overview
 
 Welcome to the challenge lab for "Automating Infrastructure on Google Cloud with Terraform." In this lab, you will leverage your Terraform skills to create, deploy, and manage infrastructure on Google Cloud. Instead of step-by-step instructions, you'll be presented with a scenario and tasks to accomplish. Your goal is to apply the knowledge gained from the labs to figure out how to complete the tasks independently.
