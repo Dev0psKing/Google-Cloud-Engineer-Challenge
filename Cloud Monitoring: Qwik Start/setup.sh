@@ -1,5 +1,6 @@
 #!/bin/bash
 
+
 export ZONE=
 
 # Download the solution script
